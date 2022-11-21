@@ -1,0 +1,27 @@
+body {
+    background-color: #ffe5e5
+}
+
+.navbar navbar-expand-lg bg-light {
+    background-color: #ffd0d0;
+}
+
+#spaceholder {
+    height: 8rem;
+}
+
+#czarinaphoto {
+    object-fit:cover;
+    width: 25rem;
+    height: 38rem;
+    filter: drop-shadow(1rem 1rem 5px #999999);
+    border-radius: 6rem;
+}
+
+p {
+    font-size: 135%;
+}
+
+h1 {
+    font-size: 3rem;
+}
